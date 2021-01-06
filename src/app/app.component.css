@@ -1,0 +1,16 @@
+.c1 {
+    /* display: flex;
+    justify-content: space-around; */
+    width: 30%;
+    cursor: pointer;
+    height: 10%;
+    margin: 20px;
+}
+.electronic-image{
+    float: right;
+}
+
+mat-card-header{
+     display: flex;
+    justify-content: space-around;
+}
